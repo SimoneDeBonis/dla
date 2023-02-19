@@ -1,4 +1,4 @@
-# Data Science Algorithms 
+# Deep Learning Algorithms
 
 [![Featured](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-theme-minimalistic/)
 [![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/jekyll-theme-minimalistic)](#)

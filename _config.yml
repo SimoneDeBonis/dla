@@ -1,4 +1,4 @@
-title: Data Science Algorithms
+title: Deep Learning Algorithms
 logo: /assets/img/logo.jpg
 email: simone.debonis98@gmail.com
 description: Learning Algorithms explained in details with math and Numpy.
@@ -22,12 +22,19 @@ platforms:
     link: mailto:simone.debonis98@gmail.com
 
 navigation:
-  - name: Classification
+  - name: Neural Networks
     link: ./index.html
     sublist:
       - name: Bayes Classifier
         link: ./index.html#small-image
-  - name: KNN
-    link: ./KNN.html
-  - name: Decision Trees
+  - name: Sequence Modeling
+    link: ./index.html
+    sublist:
+      - name: RNN
+        link: ./index.html#small-image
+      - name: LSTM
+        link: ./index.html#small-image
+      - name: Transformer
+        link: ./index.html#small-image
+  - name: CNN
     link: ./KNN.html
